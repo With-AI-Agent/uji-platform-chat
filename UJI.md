@@ -1,1 +1,1 @@
-dibuat claude chat
+dibuat gpt chat
