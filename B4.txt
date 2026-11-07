@@ -1,0 +1,3 @@
+uji/gpt-1
+ya
+1) Memeriksa commit dan daftar berkas uji/gpt-1; 2) membuat uji/gpt-b4 dari uji/gpt-1; 3) menambahkan B4.txt.
