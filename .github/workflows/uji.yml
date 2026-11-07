@@ -1,0 +1,9 @@
+name: uji
+on:
+  workflow_dispatch:
+jobs:
+  echo-hai:
+    name: echo hai
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo hai
