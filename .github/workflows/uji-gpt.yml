@@ -1,0 +1,8 @@
+name: uji-gpt
+on:
+  workflow_dispatch:
+jobs:
+  halo:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo halo
